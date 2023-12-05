@@ -1,5 +1,8 @@
 #  Frontend - Landing Page
 <div  align="center"> 
+<img height="200px" width="200px" src= "https://github.com/LaiFrance/atelie-frontend-teste/assets/91226847/f5ccf19c-0861-48ee-9c77-7bfbbd2200db" >
+
+<div  align="center"> 
 Este projeto consiste em uma landing page para uma promoção que permite aos usuários se registrarem. O formulário de registro está integrado com uma API fornecida para o envio dos dados do usuário. Após o envio do formulário, um modal de sucesso é exibido.
 <br>
 <br/>
