@@ -1,0 +1,79 @@
+/* styles.css */
+.frameContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100vw;
+  align-self: center;
+  background-image: url("../../asserts/background.png");
+  background-size: cover;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+Grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+  padding: 20px;
+  align-self: center;
+  background-image: url("../../asserts/background.png");
+  background-size: cover;
+}
+
+/* styles.css */
+
+.frameContainer {
+  padding: 20px;
+}
+
+.frameContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frameItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonGroup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  flex-wrap: wrap;
+}
+
+.frameButton {
+  width: 150px;
+  margin-right: 20px;
+  color: #FFFFFF;
+  margin-bottom: 10px;
+}
+
+/* Adicionado para adicionar espaço entre os botões quando eles quebram a linha */
+.frameButton:not(:last-child) {
+  margin-right: 20px;
+}
+
+/* Adicionado para adicionar espaço entre os botões quando eles quebram a linha */
+.frameButton:last-child {
+  margin-right: 0;
+}
+
+.frameImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,54 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "tax_id": "12345678901",
+      "password": "senha123"
+    },
+    {
+      "tax_id": "teste",
+      "password": "teste",
+      "id": 2
+    },
+    {
+      "tax_id": "06340923402",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "tax_id": "teste",
+      "password": "teste",
+      "id": 4
+    },
+    {
+      "tax_id": "teste",
+      "password": "teste",
+      "id": 5
+    },
+    {
+      "tax_id": "teste",
+      "password": "teste",
+      "id": 6
+    },
+    {
+      "tax_id": "01234567890",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "tax_id": "01234567890",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "tax_id": "01234567890",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "tax_id": "01234567890",
+      "password": "123",
+      "id": 10
+    }
+  ]
+}

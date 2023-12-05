@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Lato-Black';
+    src: url('../src/asserts/Lato/Lato-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    display: block;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+    color: white;
+}
+
+input,
+textarea,
+button,
+label,
+select,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"],
+input[type="tel"],
+input[type="date"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="url"],
+input[type="search"],
+input[type="file"],
+input[type="range"],
+input[type="color"],
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input[type="radio"],
+input[type="checkbox"] {
+    font-family: 'Roboto', sans-serif;
+    color: white !important;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+/* Estilos para telas pequenas (celulares) */
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* Estilos para telas médias (tablets) */
+@media only screen and (min-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+/* Estilos para telas grandes (desktops) */
+@media only screen and (min-width: 992px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Estilos para telas extra grandes (grandes desktops) */
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 20px;
+    }
+}
