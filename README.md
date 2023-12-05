@@ -24,11 +24,11 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 ### Instalação
 Clone o repositório:
 ```bash
-git clone https://github.com/LaiFrance/Campanha_Publicitaria.git
+git clone https://github.com/LaiFrance/atelie-frontend-teste.git
 ```
 Navegue até o diretório do projeto:
 ```bash
-cd Campanha_Publicitaria/
+cd atelie-frontend-teste
 ```
 Instale as dependências:
 ```bash
